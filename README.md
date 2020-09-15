@@ -6,9 +6,8 @@
 
 ## Dashboard:
 
-<iframe sealmless frameborder="0" src="https://public.tableau.com/profile/fatema.arsiwala#!/?newProfile=&activeTab=0" width="650" height="450" scrolling="yes"></iframe>
 
- 
+
  ## Dashboard Description
  
 - A geographic map showing countries field. Colored the map based on Income column .
