@@ -6,7 +6,7 @@
 
 ## Dashboard:
 
-<img src='download.png' width='300' height='300'>
+<img src='Tableau Project.png' width='1000' height='400'>
 
 
 
